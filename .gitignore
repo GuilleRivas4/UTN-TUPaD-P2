@@ -1,0 +1,7 @@
+
+#Carpetas ignoradas
+/1-Introduccion a Java/
+/2-Programación Estructurada/
+
+#Extensiones ignoradas
+*.pdf
